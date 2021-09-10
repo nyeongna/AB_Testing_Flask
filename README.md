@@ -1,4 +1,4 @@
-# A/B Testing Web with Flask
+# A/B Testing Web using Flask
 Implemented introductory A/B testing web
 
 # 🚩 Tech
